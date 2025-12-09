@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Civil AI Estimator</Name>
+    <Assembly>C:\Users\lynnh\.gemini\antigravity\scratch\RevitAiEstimator\bin\Debug\net8.0-windows\RevitAiEstimator.dll</Assembly>
+    <ClientId>B92723A6-8802-4217-9141-86053331C00D</ClientId>
+    <FullClassName>RevitAiEstimator.App</FullClassName>
+    <VendorId>com.example</VendorId>
+    <VendorDescription>AI Assistant for Civil Engineering</VendorDescription>
+  </AddIn>
+</RevitAddIns>

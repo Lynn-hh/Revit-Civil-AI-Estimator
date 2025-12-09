@@ -1,0 +1,6 @@
+RevitAIEstimator/.vs/
+.vs/
+bin/
+obj/
+*.user
+*.suo
