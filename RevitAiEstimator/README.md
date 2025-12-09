@@ -42,7 +42,7 @@ Since this project requires an OpenAI API Key, you must build it yourself.
 3. Click **"Smart Estimate"**.
 4. In the dialog box, enter your **Project Context**.
    - Example 1: *"Austin, Texas. Use local 2024 labor rates. Soil: Limestone."*
-   - Example 2: *"Shanghai Project. Output in Chinese (CNY)."*
+   - Example 2: *"Texas Project. Output in US dollars (USD)."*
 5. Click **Start**. The plugin will process elements and populate the properties.
 6. Check the **Properties Palette** of any wall/floor to see the results.
 
